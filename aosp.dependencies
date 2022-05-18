@@ -1,0 +1,15 @@
+[
+  {
+    "remote": "github",
+    "repository": "kuroringo90/vendor_xiaomi_vayu",
+    "target_path": "vendor/xiaomi/vayu",
+    "branch": "lineage-18.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Jebaitedneko/android_kernel_xiaomi_vayu",
+    "target_path": "kernel/xiaomi/sm8150",
+    "branch": "r2"
+  },
+  {
+]
